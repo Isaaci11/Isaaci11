@@ -3,4 +3,4 @@
 - 🌱 System and Program Design, Data Structures, Functional Programming, Databases, and Computational Linear Algebra
 - 📫 How to reach me Gmail: 
        isaacisiko15@gmail.com 
-       LinkedIn: linkedin.com/in/isaacisiko
+       LinkedIn: www.linkedin.com/in/isaacisiko
